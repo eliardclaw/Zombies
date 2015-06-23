@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\POVBehaivour.cs">
+    <Files>
+      <File FileName="Assets\POVBehaivour.cs" Line="28" Column="95" />
+      <File FileName="Assets\Hero.cs" Line="100" Column="1" />
+      <File FileName="Assets\CamFollow.cs" Line="27" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
